@@ -143,7 +143,7 @@ export default function Hero() {
                                 </svg>
                             </span>
                             <a
-                                href="https://www.linkedin.com/in/pankaj-upadhyay"
+                                href="https://www.linkedin.com/in/pankaj-upadhyay-12625330a/"
                                 target="_blank"
                                 rel="noreferrer"
                                 className="text-[#58a6ff] hover:underline"
