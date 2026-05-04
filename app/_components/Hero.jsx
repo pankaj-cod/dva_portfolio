@@ -95,7 +95,7 @@ export default function Hero() {
                 {/* ── Sidebar ── */}
                 <aside className="w-full md:w-[25%] md:min-w-[280px]">
                     <img
-                        src="/Profile/1.png"
+                        src="/Profile/1.jpg"
                         alt="Profile"
                         className="w-full max-w-[280px] aspect-square rounded-full border-2 border-[#30363d] object-cover mb-4 md:mx-0 mx-auto block"
                     />
